@@ -1,3 +1,5 @@
+### Bibliogram has been discontiuned, Read [here](https://bibliogram.art/) for more info about the frontend. For now i found this fork of Bibliogram, but it is edited and closed source probably so facebook won't lurk and patch it. https://www.picnob.com/
+
 # Bibliogram
 
 ## An alternative front-end for Instagram.

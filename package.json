@@ -33,7 +33,7 @@
   },
   "optionalDependencies": {
     "@deadcanaries/granax": "^3.2.5",
-    "got": "^10.6.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "jimp": "^0.16.1",

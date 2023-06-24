@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  bibliogram:
+    container_name: bibliogram
+    hostname: bibliogram
+    image: quay.io/pussthecatorg/bibliogram:latest
+    restart: always
+    ports:
+      - 10407:10407
+    volumes:
+      - ./db/:/app/db/
+      - ./config.js:/app/config.js

@@ -1,4 +1,4 @@
-### Bibliogram has been discontiuned, Read [here](https://bibliogram.art/) for more info about the frontend. For now i found this fork of Bibliogram, but it is edited and closed source probably so facebook won't lurk and patch it. https://www.picnob.com/
+### [Bibliogram](https://git.sr.ht/~cadence/bibliogram) has been discontiuned, Read [here](https://bibliogram.art/) for more info about the frontend. For now i found this fork of [Bibliogram](https://www.picnob.com/), but it is edited and closed source probably so facebook won't lurk and patch it. 
 
 # Bibliogram
 

@@ -4,7 +4,9 @@ services:
   bibliogram:
     container_name: bibliogram
     hostname: bibliogram
-    image: quay.io/pussthecatorg/bibliogram:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
     restart: always
     ports:
       - 10407:10407

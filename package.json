@@ -28,7 +28,7 @@
     "node-fetch": "^2.6.7",
     "pinski": "git+https://git.sr.ht/~cadence/nodejs-pinski#2a5a025a974bd5cbb81bae32ec4d5c247cec0d42",
     "pug": "^3.0.2",
-    "semver": "^7.3.7",
+    "semver": "^7.5.2",
     "socks-proxy-agent": "git+https://git.sr.ht/~cadence/nodejs-socks-proxy-agent#5eef50a01667bd5c6b5626fb8e206232152dfbee"
   },
   "optionalDependencies": {
